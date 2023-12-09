@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/home_bottomNavbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/home_icon_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/book_bottomNavbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/book_icon_24"
+        android:title="Book" />
+    <item
+        android:id="@+id/profile_bottomNavbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/account_icon_24"
+        android:title="Profile" />
+</menu>
